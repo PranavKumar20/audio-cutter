@@ -131,7 +131,7 @@ export default function AudioCutter() {
   };
 
   return (
-    <div className="p-4 max-w-md mx-auto">
+    <div className="p-4 max-w-md mx-auto text-black">
       <h1 className="text-2xl font-bold mb-4">Audio Cutter</h1>
       <input
         type="file"
